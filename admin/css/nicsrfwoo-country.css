@@ -1,0 +1,50 @@
+#nicsrfwoo .card { padding:0px;}
+#nicsrfwoo .counter {
+    background-color: #f5f5f5;
+    padding: 20px 0;
+    border-radius: 5px;
+}
+
+#nicsrfwoo .count-title {
+    font-size: 40px;
+    font-weight: normal;
+    margin-top: 10px;
+    margin-bottom: 0;
+    text-align: center;
+}
+
+#nicsrfwoo .count-text {
+    font-size: 13px;
+    font-weight: normal;
+    margin-top: 10px;
+    margin-bottom: 0;
+    text-align: center;
+}
+
+#nicsrfwoo .fa-2x {
+    margin: 0 auto;
+    float: none;
+    display: table;
+    color: #FF5E00;
+}
+#nicsrfwoo .bd-indigo-400 {
+    color: #fff;
+    background-color: #8540f5;
+}
+
+#nicsrfwoo .bd-cyan-200 {
+    color: #000;
+    background-color: #9eeaf9;
+}
+#nicsrfwoo .bd-yellow-100 {
+    color: #000;
+    background-color: #fff3cd;
+}
+#nicsrfwoo .bd-orange-500 {
+    color: #000;
+    background-color: #fd7e14;
+}
+#nicsrfwoo .bd-blue-300 {
+    color: #000;
+    background-color: #6ea8fe;
+}
